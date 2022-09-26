@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Shivani</h1>
-<h3 align="center">Aspiring software developer with an interest in web technologies.</h3>
+<h3 align="center">Aspiring web developer and UI/UX designer with an interest in web technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
